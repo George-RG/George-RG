@@ -1,7 +1,7 @@
 ## 👋 Hi there, I'm George Nikolaidis
 
 
-## Glad to see you here  ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jgeorgen2003.georgen2003&left_text=MyPageVisitors)
+## Glad to see you here  ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jgeorgen2003.georgen2003)
 
 I currently study Computer Science at the University of Athens.
 
