@@ -1,7 +1,7 @@
 ## 👋 Hi there, I'm George Nikolaidis
 
 
-## Glad to see you here  ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+## Glad to see you here  ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jgeorgen2003.georgen2003&left_text=MyPageVisitors)
 
 I currently study Computer Science at the University of Athens.
 
@@ -19,7 +19,7 @@ I started coding very young, my first real programming experiance was Harvard's 
   <p align="center">
     <img title=C src=https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg width=60 height=60>
     <img src=https://upload.wikimedia.org/wikipedia/commons/5/59/Empty.png width=50 height=60>
-    <img title=Python src=https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-line.svg width=60 height=60 style="">
+    <img title=Python src=https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg width=60 height=60 style="">
     <img src=https://upload.wikimedia.org/wikipedia/commons/5/59/Empty.png width=50 height=60>
     <img title=Lua src=https://github.com/devicons/devicon/blob/master/icons/lua/lua-original.svg width=60 height=60>
     <img src=https://upload.wikimedia.org/wikipedia/commons/5/59/Empty.png width=50 height=60>
@@ -39,3 +39,4 @@ I started coding very young, my first real programming experiance was Harvard's 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=georgen2003&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=github_dark" />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=georgen2003&layout=compact&theme=github_dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
