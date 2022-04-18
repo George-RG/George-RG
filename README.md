@@ -11,7 +11,7 @@ I started coding very young, my first real programming experiance was Harvard's 
 
 ## 🧍 Personal Stuff
 - 💾 Curently Learning [Data Sturctures](http://cgi.di.uoa.gr/~k08/) at UOA
-- 💬 Ask me about anythink, happy to help
+- 💬 Ask me about anything, happy to help
 - 📫 How to reach me: sdi2100118@di.uoa.gr or georgen2003@gmail.com
 
 ## 🖥️Programing Languages
