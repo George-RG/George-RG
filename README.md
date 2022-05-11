@@ -19,7 +19,7 @@ I started coding very young, my first real programming experiance was Harvard's 
   <p align="center">
     <img title=C src=https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg width=60 height=60>
     <img src=https://upload.wikimedia.org/wikipedia/commons/5/59/Empty.png width=50 height=60>
-    <img title=Python src=https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg width=60 height=60 style="">
+    <img title=C++ src=https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg width=60 height=60 style="">
     <img src=https://upload.wikimedia.org/wikipedia/commons/5/59/Empty.png width=50 height=60>
     <img title=Lua src=https://github.com/devicons/devicon/blob/master/icons/lua/lua-original.svg width=60 height=60>
     <img src=https://upload.wikimedia.org/wikipedia/commons/5/59/Empty.png width=50 height=60>
