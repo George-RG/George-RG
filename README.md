@@ -1,4 +1,4 @@
-## 👋 Hi there, I'm George Nikolaidis
+## 👋 Hi there, I'm George Nikolaidis <img alt="GitHub followers" src="https://img.shields.io/github/followers/pavlosdais?label=Github%20followers&style=for-the-badge">
 
 
 ## Glad to see you here  ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jgeorgen2003.georgen2003)
