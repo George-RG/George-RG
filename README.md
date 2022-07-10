@@ -31,8 +31,8 @@ I started coding very young, my first real programming experiance was Harvard's 
     
 
 ## 🔌 Projects
-- AI agent for the game [Quoridor](https://en.wikipedia.org/wiki/Quoridor)
- - AI solver for the [8 piece puzzle](https://www.artbylogic.com/puzzles/numSlider/numberShuffle.htm?rows=3&cols=3&sqr=1) with a UI using [raylib](https://www.raylib.com/)
+- AI agent for the game [Quoridor](https://en.wikipedia.org/wiki/Quoridor).
+- AI solver for the [8 piece puzzle](https://github.com/georgen2003/N-Piece-Puzzle) with a UI using [raylib](https://www.raylib.com/). Here is a site to play the [Game](https://www.artbylogic.com/puzzles/numSlider/numberShuffle.htm?rows=3&cols=3&sqr=1)
 
 
 ## My GitHub Stats
