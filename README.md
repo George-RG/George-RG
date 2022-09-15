@@ -36,7 +36,8 @@ I started coding very young, my first real programming experiance was Harvard's 
 
 
 ## My GitHub Stats
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=georgen2003&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=github_dark" />
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?       username=georgen2003&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=github_dark" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=georgen2003&layout=compact&theme=github_dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=georgen2003&layout=compact&theme=github_dark&hide_border=true)]  (https://github.com/anuraghazra/github-readme-stats)
+<\p>
