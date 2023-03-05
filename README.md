@@ -1,7 +1,7 @@
 ## 👋 Hi there, I'm George Nikolaidis <img alt="GitHub followers" src="https://img.shields.io/github/followers/georgen2003?label=Github%20followers&style=for-the-badge">
 
 
-## Glad to see you here  ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jgeorgen2003.georgen2003)
+## Glad to see you here
 
 I currently study Computer Science at the University of Athens.
 
