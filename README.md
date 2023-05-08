@@ -10,7 +10,7 @@ I really like working on Artificial Inteligence and pathfinding agents. This kin
 I started coding very young, my first real programming experiance was Harvard's [CS50](https://pll.harvard.edu/course/cs50-introduction-computer-science?delta=0) which i completed with an Excelent degree.
 
 ## 🧍 Personal Stuff
-- 💾 Curently Learning [Data Sturctures](http://cgi.di.uoa.gr/~k08/) at UOA
+- 💾 Curently Learning [Data Structures](http://cgi.di.uoa.gr/~k08/) at UOA
 - 💬 Ask me about anything, happy to help
 - 📫 How to reach me: sdi2100118@di.uoa.gr or georgen2003@gmail.com
 
@@ -34,7 +34,7 @@ I started coding very young, my first real programming experiance was Harvard's 
 
 ## 🔌 Projects
 - AI agent for the game [Quoridor](https://en.wikipedia.org/wiki/Quoridor).
-- AI solver for the [8 piece puzzle](https://github.com/georgen2003/N-Piece-Puzzle) with a UI using [raylib](https://www.raylib.com/). Here is a site to play the [Game](https://www.artbylogic.com/puzzles/numSlider/numberShuffle.htm?rows=3&cols=3&sqr=1)
+- AI solver for the [8 piece puzzle](https://github.com/georgen2003/N-Piece-Puzzle) with a UI using [raylib](https://www.raylib.com/). Here is a site to play the [Game](https://georgerg.com/)
 
 
 ## My GitHub Stats
